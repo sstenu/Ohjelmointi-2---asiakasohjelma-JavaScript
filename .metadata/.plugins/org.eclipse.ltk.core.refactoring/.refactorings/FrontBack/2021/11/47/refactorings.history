@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;tyyli.css&apos; to &apos;css&apos;" description="Move &apos;tyyli.css&apos; to &apos;css&apos;" destination="src/main/webapp/css" element1="src/main/webapp/tyyli.css" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1637838581960" updateReferences="true"/>
+</session>

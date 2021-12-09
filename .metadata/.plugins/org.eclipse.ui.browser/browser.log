@@ -1,0 +1,56 @@
+
+marrask. 18, 2021 19:00:06.693 NEW SESSION
+marrask. 18, 2021 19:00:06.694 
+marrask. 18, 2021 19:00:06.695 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+marrask. 18, 2021 19:00:06.696 
+marrask. 18, 2021 19:00:06.738 [Parent 16080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+marrask. 25, 2021 17:56:18.300 NEW SESSION
+marrask. 25, 2021 17:56:18.301 [15556:19228:1125/175618.277:ERROR:device_event_log_impl.cc(214)] [17:56:18.278] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 17:56:18.376 [15556:8132:1125/175618.375:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+marrask. 25, 2021 17:56:18.377 [15556:8132:1125/175618.376:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+marrask. 25, 2021 17:57:59.17 [17060:15844:1125/175759.016:ERROR:device_event_log_impl.cc(214)] [17:57:59.016] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 17:57:59.19 [17060:15844:1125/175759.016:ERROR:device_event_log_impl.cc(214)] [17:57:59.016] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 17:57:59.58 [17060:14216:1125/175759.057:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+marrask. 25, 2021 17:57:59.60 [17060:14216:1125/175759.060:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+marrask. 25, 2021 18:01:33.722 [13472:3572:1125/180133.721:ERROR:device_event_log_impl.cc(214)] [18:01:33.720] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 18:01:33.783 [13472:10556:1125/180133.782:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+marrask. 25, 2021 18:01:33.786 [13472:10556:1125/180133.785:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+
+marrask. 25, 2021 19:44:13.106 NEW SESSION
+marrask. 25, 2021 19:44:13.106 [12900:1736:1125/194413.101:ERROR:device_event_log_impl.cc(214)] [19:44:13.101] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 19:44:13.146 [12900:14812:1125/194413.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+marrask. 25, 2021 19:44:13.150 [12900:14812:1125/194413.149:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+marrask. 25, 2021 19:46:12.837 [9400:11688:1125/194612.836:ERROR:device_event_log_impl.cc(214)] [19:46:12.836] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+marrask. 25, 2021 19:46:12.908 [9400:19864:1125/194612.908:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+marrask. 25, 2021 19:46:12.911 [9400:19864:1125/194612.911:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+
+jouluk. 02, 2021 11:28:24.163 NEW SESSION
+jouluk. 02, 2021 11:28:24.163 [10808:788:1202/112824.156:ERROR:device_event_log_impl.cc(214)] [11:28:24.156] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 02, 2021 11:28:24.184 [10808:16912:1202/112824.183:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 02, 2021 11:28:24.186 [10808:16912:1202/112824.186:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+jouluk. 02, 2021 13:40:32.957 [8228:7484:1202/134032.956:ERROR:device_event_log_impl.cc(214)] [13:40:32.957] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 02, 2021 13:40:32.979 [8228:652:1202/134032.978:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 02, 2021 13:40:32.979 [8228:652:1202/134032.979:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+jouluk. 02, 2021 13:40:38.886 [3652:10896:1202/134038.884:ERROR:device_event_log_impl.cc(214)] [13:40:38.885] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 02, 2021 13:40:38.900 [3652:940:1202/134038.900:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 02, 2021 13:40:38.901 [3652:940:1202/134038.901:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+
+jouluk. 02, 2021 15:18:42.788 NEW SESSION
+jouluk. 02, 2021 15:18:42.788 [11944:17080:1202/151842.781:ERROR:device_event_log_impl.cc(214)] [15:18:42.782] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 02, 2021 15:18:42.850 [11944:6076:1202/151842.849:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 02, 2021 15:18:42.853 [11944:6076:1202/151842.852:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+
+jouluk. 09, 2021 17:38:02.225 NEW SESSION
+jouluk. 09, 2021 17:38:02.225 [5460:8856:1209/173802.223:ERROR:device_event_log_impl.cc(214)] [17:38:02.224] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 09, 2021 17:38:02.235 [5460:9092:1209/173802.234:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 09, 2021 17:38:02.236 [5460:9092:1209/173802.235:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+jouluk. 09, 2021 17:42:49.272 [5460:8856:1209/174249.272:ERROR:device_event_log_impl.cc(214)] [17:42:49.271] USB: usb_service_win.cc:355 Could not get child device's service name: Elementtiä ei löydy. (0x490)
+jouluk. 09, 2021 17:42:49.361 [5460:8856:1209/174249.360:ERROR:device_event_log_impl.cc(214)] [17:42:49.358] USB: usb_service_win.cc:261 Failed to get device driver name: Elementtiä ei löydy. (0x490)
+jouluk. 09, 2021 17:42:49.370 [5460:8856:1209/174249.369:ERROR:device_event_log_impl.cc(214)] [17:42:49.368] USB: usb_service_win.cc:284 SetupDiEnumDeviceInterfaces: Dataa ei ole enempää. (0x103)
+jouluk. 09, 2021 18:31:16.728 [6580:9808:1209/183116.726:ERROR:device_event_log_impl.cc(214)] [18:31:16.726] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 09, 2021 18:31:16.784 [6580:4240:1209/183116.783:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 09, 2021 18:31:16.787 [6580:4240:1209/183116.786:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
+jouluk. 09, 2021 18:36:24.640 [2792:10916:1209/183624.639:ERROR:device_event_log_impl.cc(214)] [18:36:24.639] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Järjestelmään liitetty laite ei toimi. (0x1F)
+jouluk. 09, 2021 18:36:24.705 [2792:15536:1209/183624.704:ERROR:chrome_browser_main_extra_parts_metrics.cc(248)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+jouluk. 09, 2021 18:36:24.711 [2792:15536:1209/183624.710:ERROR:chrome_browser_main_extra_parts_metrics.cc(252)] crbug.com/1216328: Checking default browser status ended.
